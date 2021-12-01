@@ -2,4 +2,4 @@ MyClipBoard v1.0 https://github.com/DevPhyxics/MyClipBoard/raw/main/MyClipBoard%
 MyClipBoard v2.0 https://github.com/DevPhyxics/MyClipBoard/raw/main/MyClipBoard%20v2.0.exe
 MyClipBoard v2.1 https://github.com/DevPhyxics/MyClipBoard/raw/main/MyClipBoard%20v2.1.exe
 MyClipBoard v2.2 https://github.com/DevPhyxics/MyClipBoard/raw/main/MyClipBoard%20v2.2.exe
-MyClipBoard v2.2 https://github.com/DevPhyxics/MyClipBoard/raw/main/MyClipBoard%20v2.3.exe
+MyClipBoard v2.3 https://github.com/DevPhyxics/MyClipBoard/raw/main/MyClipBoard%20v2.3.exe
