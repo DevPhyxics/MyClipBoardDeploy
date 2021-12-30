@@ -1,1 +1,1 @@
-MyClipBoard v2.4.0 https://github.com/DevPhyxics/MyClipBoard/raw/main/MyClipBoard%20CSharp.exe
+MyClipBoard v2.4.1 https://github.com/DevPhyxics/MyClipBoard/raw/a0d4de13c0b2a7dfcd10f82d1b192301028c86e8/MyClipBoard.exe
